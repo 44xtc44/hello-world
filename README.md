@@ -1,5 +1,5 @@
 # hello-world
-readme-edits
+edits
 changed the readme
-next line
+next line is main
 main
